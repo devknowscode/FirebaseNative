@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862959133490",
+    "project_id": "fir-app-aa184",
+    "storage_bucket": "fir-app-aa184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862959133490:android:2678d420f926de46606d2b",
+        "android_client_info": {
+          "package_name": "com.firebasenative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdrBUK8qcMYAWZqpAmpkk0fUhFFAmfTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
